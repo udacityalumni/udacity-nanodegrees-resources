@@ -1,5 +1,8 @@
 # Contributors 
 
-- List of **Women Techmakers Udacity Scholars and Udacity Students** who have contributed to this project:
+- List of **Udacians** who have contributed to this project:
 
      - Estefania C. (TefiC)
+     - rajanikantdeshmukh
+     - karenebaker
+
