@@ -1,6 +1,6 @@
 # List of Resources For Udacity Nanodegrees
 
-**Welcome! In this repository built by  Udacity Students you can find a list of links to helpful resources for your Nanodegree** . These resources have been very helpful during our Nanodegrees and we hope they will help you as well.
+**Welcome! In this repository built by  Udacity Students you can find a list of links to helpful resources for your Nanodegree.**
 
 #### Nanodegrees included:
 - Android Basics Nanodegree
