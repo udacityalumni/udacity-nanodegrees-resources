@@ -9,7 +9,7 @@ Welcome! In this repository you can find a list of helpful resources built by  *
 - Business Analyst Nanodegree
 - Data Analyst Nanodegree 
 - Data Foundations Nanodegree
-- Deep Learning Nanodegree Foundation
+- Deep Learning Nanodegree
 - Design Sprint Foundations Nanodegree
 - Digital Marketing Nanodegree
 - Flying Car Nanodegree
