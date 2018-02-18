@@ -1,6 +1,6 @@
 # List of Resources For Udacity Nanodegrees
 
-Welcome! In this repository you can find a list of helpful resources built by  **Udacity Students**. These are resources that have proved to be very helpful during our courses and projects and we hope they will help you as well.
+**Welcome! In this repository built by  Udacity Students you can find a list of links to helpful resources for your Nanodegree** . These resources have been very helpful during our Nanodegrees and we hope they will help you as well.
 
 #### Nanodegrees included:
 - Android Basics Nanodegree
@@ -30,4 +30,15 @@ Welcome! In this repository you can find a list of helpful resources built by  *
 
 ---
 
-If you wish to contribute, please read the [**CONTRIBUTING.md**](CONTRIBUTING.md) file. Thank you in advance!
+#### Main Categories:
+
+- Each Nanodegree has a README file with these main categories:
+     - **Resources Per Project** - Links to interesting resources for each project.
+     - **Complementary Resources** - Links to helpful resources that are not specific to a particular project.
+     - **Technical Interviewing Resources** - Links to helpful resources for Interviews and Career Development.
+     - **Project Ideas** - Descriptions of ideas for projects you can complete after you complete your Nanodegree to expand your portfolio. If you wish to contribute with an idea, you can also include a Syllabus.
+
+---
+If you wish to contribute to this project, please read the [**CONTRIBUTING.md**](CONTRIBUTING.md) file. 
+
+Thank you very much in advance!
