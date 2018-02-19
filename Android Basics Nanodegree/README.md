@@ -1,33 +1,36 @@
 ## Resources for the Android Basics Nanodegree by Google
 
+----
+
 ### Resources Per Project
 
 ----
 
-##### Project 1: Build A Single Screen App
+#### Project 1: Build A Single Screen App
 
-##### Project 2: Score Keeper App
+#### Project 2: Score Keeper App
 
-##### Project 3: Quiz App
+#### Project 3: Quiz App
 
-##### Project 4: Musical Structure App
+#### Project 4: Musical Structure App
 
-##### Project 5: Tour Guide App
+#### Project 5: Tour Guide App
 
-##### Project 6: News App - Stage 1
+#### Project 6: News App - Stage 1
 
-##### Project 7: News App - Stage 2
+#### Project 7: News App - Stage 2
 
-##### Project 8: Inventory App - Stage 1
+#### Project 8: Inventory App - Stage 1
 
-##### Project 9: Inventory App - Stage 2
+#### Project 9: Inventory App - Stage 2
  
+---
 
 ### Complementary Resources
 
 ----
 
-##### General Guide Collections
+#### General Guide Collections
 * [API Guides for Android Platform](https://developer.android.com/guide/index.html) - Provide details about how to build apps using Android's various APIs.
 * [CodePath Android Guides](https://github.com/codepath/android_guides/wiki) - Extensive Open-Source Guides for Android Developers.
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/index.html) - A collection of tools to easily generate assets such as launcher icons for your Android app.
@@ -36,12 +39,12 @@
 * [Android Arsenal](https://android-arsenal.com/) -  Android developer portal with tools, libraries, and apps.
 
 
-##### Code Style and Guide
+#### Code Style and Guide
 -  [Project and Code Guidelines](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
 -  [Javadoc Guidelines](http://www.oracle.com/technetwork/java/javase/documentation/index-137868.html)
 -  [Android Studio Lint Guide](https://developer.android.com/studio/write/lint.html)
 
-##### Project Submission
+#### Project Submission
 - These are the general steps a student **should** follow before submitting for review:
  - Run the project. Go through the app and confirm that there are no crashes or [ANRs](https://developer.android.com/topic/performance/vitals/anr.html).
  2. Check the project rubric and confirm that your app meets the requirements. (This step is optionsal, but it will save you for a lots of re-submissions)
@@ -49,10 +52,13 @@
      - [Android.gitignore](https://github.com/github/gitignore/blob/master/Android.gitignore)
      - [How to clean project](https://docs.google.com/document/d/1eYvuXY7GRE6VQpq4Rp-KotU1ti-JEySN1KdyKwjhzEQ/pub)
 
+---
 
 ### Technical Interviewing Resources
 
 ----
+
+---
 
 ### Project ideas
 
