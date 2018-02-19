@@ -2,31 +2,31 @@
 
 **Welcome! In this repository built by  Udacity Students you can find a list of links to helpful resources for your Nanodegree.**
 
-#### Nanodegrees included:
+#### Nanodegrees:
 - [Android Basics Nanodegree](Android%20Basics%20Nanodegree/README.md)
-- Android Developer Nanodegree
-- Artificial Intelligence Nanodegree
-- Business Analyst Nanodegree
-- Data Analyst Nanodegree 
-- Data Foundations Nanodegree
-- Deep Learning Nanodegree
-- Design Sprint Foundations Nanodegree
-- Digital Marketing Nanodegree
-- Flying Car Nanodegree
-- Front End Web Developer Nanodegree
-- Full Stack Development Nanodegree
-- Google AdWords Nanodegree
-- Intro to Programming Nanodegree
-- Intro to Self-Driving Cars Nanodegree
-- Learn ARKit Nanodegree
-- Learn Unreal VR Nanodegree
-- Machine Learning Engineer Nanodegree
-- Mobile Web Specialist Nanodegree
-- React Nanodegree
-- Robotics Software Engineer Nanodegree
-- Self-Driving Car Engineer Nanodegree
-- VR Developer Nanodegree
-- iOS Developer Nanodegree
+- [Android Developer Nanodegree](Android%20Developer%20Nanodegree/README.md)
+- [Artificial Intelligence Nanodegree](Artificial%20Intelligence%20Nanodegree/README.md)
+- [Business Analyst Nanodegree](Business%20Analyst%20Nanodegree/README.md)
+- [Data Analyst Nanodegree](Data%20Analyst%20Nanodegree/README.md)
+- [Data Foundations Nanodegree](Data%20Foundations%20Nanodegree/README.md)
+- [Deep Learning Nanodegree](Deep%20Learning%20Nanodegree/README.md)
+- [Design Sprint Foundations Nanodegree](Design%20Sprint%20Foundations%20Nanodegree/README.md)
+- [Digital Marketing Nanodegree](Digital%20Marketing%20Nanodegree/README.md)
+- [Flying Car Nanodegree](Flying%20Car%20Nanodegree/README.md)
+- [Front End Web Developer Nanodegree](Front%20End%20Web%20Developer%20Nanodegree)
+- [Full Stack Development Nanodegree](Full%20Stack%20Development%20Nanodegree/README.md)
+- [Google AdWords Nanodegree](Google%20AdWords%20Nanodegree/README.md)
+- [Intro to Programming Nanodegree](Intro%20to%20Programming%20Nanodegree/README.md)
+- [Intro to Self-Driving Cars Nanodegree](Intro%20to%20Self-Driving%20Cars%20Nanodegree/README.md)
+- [Learn ARKit Nanodegree](Learn%20ARKit%20Nanodegree/README.md)
+- [Learn Unreal VR Nanodegree](Learn%20Unreal%20VR%20Nanodegree/README.md)
+- [Machine Learning Engineer Nanodegree](Machine%20Learning%20Engineer%20Nanodegree/README.md)
+- [Mobile Web Specialist Nanodegree](Mobile%20Web%20Specialist%20Nanodegree/README.md)
+- [React Nanodegree](React%20Nanodegree/README.md)
+- [Robotics Software Engineer Nanodegree](Robotics%20Software%20Engineer%20Nanodegree/README.md)
+- [Self-Driving Car Engineer Nanodegree](Self-Driving%20Car%20Engineer%20Nanodegree/README.md)
+- [VR Developer Nanodegree](VR%20Developer%20Nanodegree/README.md)
+- [iOS Developer Nanodegree](iOS%20Developer%20Nanodegree/README.md)
 
 ---
 
