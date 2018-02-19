@@ -14,7 +14,7 @@
 - [Digital Marketing Nanodegree](Digital%20Marketing%20Nanodegree/README.md)
 - [Flying Car Nanodegree](Flying%20Car%20Nanodegree/README.md)
 - [Front End Web Developer Nanodegree](Front%20End%20Web%20Developer%20Nanodegree)
-- [Full Stack Development Nanodegree](Full%20Stack%20Development%20Nanodegree/README.md)
+- [Full-Stack Web Developer Nanodegree](Full%20Stack%20Web%20Developer%20Nanodegree/README.md)
 - [Google AdWords Nanodegree](Google%20AdWords%20Nanodegree/README.md)
 - [Intro to Programming Nanodegree](Intro%20to%20Programming%20Nanodegree/README.md)
 - [Intro to Self-Driving Cars Nanodegree](Intro%20to%20Self-Driving%20Cars%20Nanodegree/README.md)
