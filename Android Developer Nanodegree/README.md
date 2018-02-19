@@ -6,7 +6,7 @@
 
 ##### Project 1: Popular Movies - Stage 1
 
-##### Project 2: Populate Movies - Stage 2
+##### Project 2: Popular Movies - Stage 2
 
 ##### Project 3: Baking App
 
