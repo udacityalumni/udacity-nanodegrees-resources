@@ -1,25 +1,31 @@
 ## Resources for the Learn ARKit Nanodegree
 
+---
+
 ### Resources Per Project
 
 ----
 
-#### - Unity
+### - Unity
 
-##### Project: A Portal to Another Dimension
+#### Project: A Portal to Another Dimension
 
-#### - Swift
+### - Swift
 
-##### Project: Perform A Magic Trick
+#### Project: Perform A Magic Trick
 
+---
 
 ### Complementary Resources
 
 ----
+---
 
 ### Technical Interviewing Resources
 
 ----
+
+---
 
 ### Project ideas
 
