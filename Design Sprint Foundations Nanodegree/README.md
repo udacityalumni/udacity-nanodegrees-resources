@@ -1,23 +1,29 @@
 ## Resources for the Design Sprint Foundations Nanodegree
 
+----
+
 ### Resources Per Project
 
 ----
 
-##### The Concept
+#### The Concept
 
-##### The Storyboard
+#### The Storyboard
 
-##### The Prototype
+#### The Prototype
 
-##### The Summary Report
+#### The Summary Report
 
+---
 
 ### Complementary Resources
 
 ----
 
+---
 ### Technical Interviewing Resources
+
+----
 
 ----
 
