@@ -2,7 +2,7 @@
 
 ---
 
-### Resources Per Project
+### 🎓 Resources Per Project
 
 ----
 
@@ -23,18 +23,18 @@
 
 ---
 
-### Complementary Resources
+### 🔧 Complementary Resources
 
 ----
 
 ---
 
-### Technical Interviewing Resources
+### 💬 Technical Interviewing Resources
 
 ----
 
 ----
 
-### Project ideas
+### 💡 Project ideas
 
 ----
