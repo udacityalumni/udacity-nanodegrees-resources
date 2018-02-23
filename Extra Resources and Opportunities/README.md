@@ -1,1 +1,0 @@
-## Extra resources and opportunities
