@@ -45,7 +45,7 @@ Follow this format ⬇️
 
 ----
 
-##🌐 Contributing to the Open Source Projects section
+## 🌐 Contributing to the Open Source Projects section
 
 - If the project's category that has not been included:
   - Add a markdown file titled "**Open Source [technology] projects**" (omit the [ ]) in the "Open Source Projects" folder.
@@ -85,4 +85,4 @@ You've contributed to the project, that's awesome! 👍 We would be honored to i
 
 If you have any questions or suggestions, please open  an issue and we can discuss it in more detail. **Suggestions are always welcome! 😀**
 
-**We really appreciate your contributions!**👍 
+**We really appreciate your contributions!** 👍 
