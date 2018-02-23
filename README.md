@@ -1,8 +1,8 @@
-# List of Resources For Udacity Nanodegrees
+# List of Resources For Udacity Nanodegrees 
 
-**Welcome! In this repository built by  Udacity Students you can find a list of links to helpful resources for your Nanodegree.**
+✨ **Welcome!  In this repository created by Udacity Students you can find a list of links to helpful resources for your Nanodegree.**
 
-#### Nanodegrees:
+#### 🎓 Nanodegrees:
 - [Android Basics Nanodegree](Android%20Basics%20Nanodegree/README.md)
 - [Android Developer Nanodegree](Android%20Developer%20Nanodegree/README.md)
 - [Artificial Intelligence Nanodegree](Artificial%20Intelligence%20Nanodegree/README.md)
@@ -30,7 +30,17 @@
 
 ---
 
-#### Main Categories:
+#### 🌐 Contribute to Open Source Projects! 
+
+- [Open Source Projects](Open%20Source%20Projects/)
+
+Find Open Source Projects by Technology and Category.
+
+
+
+----
+
+#### 📃 Main Categories:
 
 - Each Nanodegree has a README file with these main categories:
      - **Resources Per Project** - Links to interesting resources for each project.
@@ -39,6 +49,9 @@
      - **Project Ideas** - Descriptions of ideas for projects you can complete after you complete your Nanodegree to expand your portfolio. If you wish to contribute with an idea, you can also include a Syllabus.
 
 ---
-If you wish to contribute to this project, please read the [**CONTRIBUTING.md**](CONTRIBUTING.md) file. 
 
-Thank you very much in advance!
+#### ✋ Contribute:
+
+To contribute to this project, please read the [**CONTRIBUTING.md**](CONTRIBUTING.md) file for guidelines. 
+
+**Thank you very much in advance! Your contribution is really appreciated** 👍
