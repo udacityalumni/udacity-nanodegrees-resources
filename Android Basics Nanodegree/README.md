@@ -6,23 +6,23 @@
 
 ----
 
-#### 1️⃣ Project 1: Build A Single Screen App
+#### Project 1: Build A Single Screen App
 
-#### 2️⃣ Project 2: Score Keeper App
+#### Project 2: Score Keeper App
 
-#### 3️⃣ Project 3: Quiz App
+#### Project 3: Quiz App
 
-#### 4️⃣ Project 4: Musical Structure App
+#### Project 4: Musical Structure App
 
-#### 5️⃣ Project 5: Tour Guide App
+#### Project 5: Tour Guide App
 
-#### 6️⃣ Project 6: News App - Stage 1
+#### Project 6: News App - Stage 1
 
-#### 7️⃣ Project 7: News App - Stage 2
+#### Project 7: News App - Stage 2
 
-#### 8️⃣ Project 8: Inventory App - Stage 1
+#### Project 8: Inventory App - Stage 1
 
-#### 9️⃣ Project 9: Inventory App - Stage 2
+#### Project 9: Inventory App - Stage 2
  
 ---
 
