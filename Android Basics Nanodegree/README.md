@@ -2,31 +2,31 @@
 
 ----
 
-### Resources Per Project
+### 🎓 Resources Per Project
 
 ----
 
-#### Project 1: Build A Single Screen App
+#### 1️⃣ Project 1: Build A Single Screen App
 
-#### Project 2: Score Keeper App
+#### 2️⃣ Project 2: Score Keeper App
 
-#### Project 3: Quiz App
+#### 3️⃣ Project 3: Quiz App
 
-#### Project 4: Musical Structure App
+#### 4️⃣ Project 4: Musical Structure App
 
-#### Project 5: Tour Guide App
+#### 5️⃣ Project 5: Tour Guide App
 
-#### Project 6: News App - Stage 1
+#### 6️⃣ Project 6: News App - Stage 1
 
-#### Project 7: News App - Stage 2
+#### 7️⃣ Project 7: News App - Stage 2
 
-#### Project 8: Inventory App - Stage 1
+#### 8️⃣ Project 8: Inventory App - Stage 1
 
-#### Project 9: Inventory App - Stage 2
+#### 9️⃣ Project 9: Inventory App - Stage 2
  
 ---
 
-### Complementary Resources
+### 🔧 Complementary Resources
 
 ----
 
@@ -54,13 +54,13 @@
 
 ---
 
-### Technical Interviewing Resources
+### 💬 Technical Interviewing Resources
 
 ----
 
 ---
 
-### Project ideas
+### 💡 Project ideas
 
 ----
 
