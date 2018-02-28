@@ -73,14 +73,14 @@ Follow this format ⬇️
 
 - To contribute with a project idea, please add a line on the "Project ideas" main section of the README file that corresponds to your Nanodegree following **this format**:
 
- - **Short and descriptive title for your idea** - Brief description of the project and the technologies required.
+   - **Short and descriptive title for your idea** - Brief description of the project and the technologies required.
 
 - To contribute with a rubric for your idea:
 
- - Go to the **"Rubrics"** folder inside your Nanodegree's main folder.
+   - Go to the **"Rubrics"** folder inside your Nanodegree's main folder.
 
- - Add a markdown file named exactly like the title you used for your idea on the Nanodegree's README file. 
-     - Inside that file add a title and the requirements for the project as bullet points.
+   - Add a markdown file named exactly like the title you used for your idea on the Nanodegree's README file. 
+       - Inside that file add a title and the requirements for the project as bullet points.
 
 
 **NOTE:** Contributing with a rubric is optional, you can add a project idea without a rubric.
