@@ -13,7 +13,7 @@
 - [Design Sprint Foundations Nanodegree](Design%20Sprint%20Foundations%20Nanodegree/README.md)
 - [Digital Marketing Nanodegree](Digital%20Marketing%20Nanodegree/README.md)
 - [Flying Car Nanodegree](Flying%20Car%20Nanodegree/README.md)
-- [Front End Web Developer Nanodegree](Front%20End%20Web%20Developer%20Nanodegree)
+- [Front-End Web Developer Nanodegree](Front%20End%20Web%20Developer%20Nanodegree)
 - [Full-Stack Web Developer Nanodegree](Full%20Stack%20Web%20Developer%20Nanodegree/README.md)
 - [Google AdWords Nanodegree](Google%20AdWords%20Nanodegree/README.md)
 - [Intro to Programming Nanodegree](Intro%20to%20Programming%20Nanodegree/README.md)
