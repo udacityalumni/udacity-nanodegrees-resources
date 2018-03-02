@@ -25,6 +25,10 @@
 
 ----
 
+#### Code Style and Guide
+-  [Javascript Style Guide](https://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
+-  [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
+
 ---
 
 ### 💬 Technical Interviewing Resources
