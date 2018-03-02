@@ -46,7 +46,7 @@ Find Open Source Projects by Technology and Category.
      - **Resources Per Project** - Links to interesting resources for each project.
      - **Complementary Resources** - Links to helpful resources that are not specific to a particular project.
      - **Technical Interviewing Resources** - Links to helpful resources for Interviews and Career Development.
-     - **Project Ideas** - Descriptions of ideas for projects you can complete after you complete your Nanodegree to expand your portfolio. If you wish to contribute with an idea, you can also include a Syllabus.
+     - **Project Ideas** - Descriptions of ideas for projects you can complete after you complete your Nanodegree to expand your portfolio. If you wish to contribute with an idea, you can also include a Rubric.
 
 ---
 
