@@ -11,7 +11,8 @@
 - Spinners
    - [How to Add Spinner (Dropdown List) to Android ActionBar/Toolbar](http://www.viralandroid.com/2016/03/how-to-add-spinner-dropdown-list-to-android-actionbar-toolbar.html)
    - [Spinners (Android Documentation)](https://developer.android.com/guide/topics/ui/controls/spinner.html)
-
+   - [How to add a spinner next to a menu in the toolbar
+](https://stackoverflow.com/questions/37250397/how-to-add-a-spinner-next-to-a-menu-in-the-toolbar)
 #### Project 2: Popular Movies - Stage 2
 
 #### Project 3: Baking App
