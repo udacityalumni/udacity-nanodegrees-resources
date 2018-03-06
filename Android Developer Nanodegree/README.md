@@ -18,6 +18,8 @@
 
 - Restore Scroll
    - [How to Save and Restore the Scroll Position and State of a Android ListView](https://futurestud.io/tutorials/how-to-save-and-restore-the-scroll-position-and-state-of-a-android-listview)
+- Endless Scrolling
+   - [Endless Scrolling with AdapterViews and RecyclerView](https://github.com/codepath/android_guides/wiki/Endless-Scrolling-with-AdapterViews-and-RecyclerView)
 
 #### Project 3: Baking App
 
