@@ -13,7 +13,11 @@
    - [Spinners (Android Documentation)](https://developer.android.com/guide/topics/ui/controls/spinner.html)
    - [How to add a spinner next to a menu in the toolbar
 ](https://stackoverflow.com/questions/37250397/how-to-add-a-spinner-next-to-a-menu-in-the-toolbar)
+
 #### Project 2: Popular Movies - Stage 2
+
+- Restore Scroll
+   - [How to Save and Restore the Scroll Position and State of a Android ListView](https://futurestud.io/tutorials/how-to-save-and-restore-the-scroll-position-and-state-of-a-android-listview)
 
 #### Project 3: Baking App
 
