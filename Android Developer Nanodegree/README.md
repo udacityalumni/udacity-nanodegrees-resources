@@ -22,6 +22,9 @@
    - [Endless Scrolling with AdapterViews and RecyclerView](https://github.com/codepath/android_guides/wiki/Endless-Scrolling-with-AdapterViews-and-RecyclerView)
 - Database
    - [Android SQLite Database – How to use onupgrade() correctly](https://riggaroo.co.za/android-sqlite-database-use-onupgrade-correctly/)
+- Internal Storage
+    - [Saving and Reading Bitmaps/Images from Internal memory in Android
+](https://stackoverflow.com/questions/17674634/saving-and-reading-bitmaps-images-from-internal-memory-in-android)
 
 #### Project 3: Baking App
 
