@@ -28,6 +28,9 @@
 - Parcelable
     - [Read & writing arrays of Parcelable objects
 ](https://stackoverflow.com/questions/10071502/read-writing-arrays-of-parcelable-objects)
+- Picasso
+    - [Downloading multiple pictures with Picasso
+](https://stackoverflow.com/questions/41461162/downloading-multiple-pictures-with-picasso)
 
 #### Project 3: Baking App
 
