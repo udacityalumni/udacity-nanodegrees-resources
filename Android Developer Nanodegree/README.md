@@ -8,6 +8,10 @@
 
 #### Project 1: Popular Movies - Stage 1
 
+- Spinners
+   - [How to Add Spinner (Dropdown List) to Android ActionBar/Toolbar](http://www.viralandroid.com/2016/03/how-to-add-spinner-dropdown-list-to-android-actionbar-toolbar.html)
+   - [Spinners (Android Documentation)](https://developer.android.com/guide/topics/ui/controls/spinner.html)
+
 #### Project 2: Popular Movies - Stage 2
 
 #### Project 3: Baking App
