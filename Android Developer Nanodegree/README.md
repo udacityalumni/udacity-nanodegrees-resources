@@ -25,6 +25,9 @@
 - Internal Storage
     - [Saving and Reading Bitmaps/Images from Internal memory in Android
 ](https://stackoverflow.com/questions/17674634/saving-and-reading-bitmaps-images-from-internal-memory-in-android)
+- Parcelable
+    - [Read & writing arrays of Parcelable objects
+](https://stackoverflow.com/questions/10071502/read-writing-arrays-of-parcelable-objects)
 
 #### Project 3: Baking App
 
