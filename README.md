@@ -1,32 +1,50 @@
 # List of Resources For Udacity Nanodegrees 
 
-✨ **Welcome!  In this repository created by Udacity Students you can find a list of links to helpful resources for your Nanodegree.**
+✨ **Welcome!  In this repository created by Udacity Students you can find a list of links to helpful resources to continue learning and expanding your portfolio after completing your Nanodegree.**
 
-#### 🎓 Nanodegrees:
-- [Android Basics Nanodegree](Android%20Basics%20Nanodegree/README.md)
-- [Android Developer Nanodegree](Android%20Developer%20Nanodegree/README.md)
-- [Artificial Intelligence Nanodegree](Artificial%20Intelligence%20Nanodegree/README.md)
-- [Business Analyst Nanodegree](Business%20Analyst%20Nanodegree/README.md)
-- [Data Analyst Nanodegree](Data%20Analyst%20Nanodegree/README.md)
-- [Data Foundations Nanodegree](Data%20Foundations%20Nanodegree/README.md)
-- [Deep Learning Nanodegree](Deep%20Learning%20Nanodegree/README.md)
-- [Design Sprint Foundations Nanodegree](Design%20Sprint%20Foundations%20Nanodegree/README.md)
-- [Digital Marketing Nanodegree](Digital%20Marketing%20Nanodegree/README.md)
-- [Flying Car Nanodegree](Flying%20Car%20Nanodegree/README.md)
-- [Front-End Web Developer Nanodegree](Front%20End%20Web%20Developer%20Nanodegree)
-- [Full-Stack Web Developer Nanodegree](Full%20Stack%20Web%20Developer%20Nanodegree/README.md)
-- [Google AdWords Nanodegree](Google%20AdWords%20Nanodegree/README.md)
-- [Intro to Programming Nanodegree](Intro%20to%20Programming%20Nanodegree/README.md)
-- [Intro to Self-Driving Cars Nanodegree](Intro%20to%20Self-Driving%20Cars%20Nanodegree/README.md)
-- [Learn ARKit Nanodegree](Learn%20ARKit%20Nanodegree/README.md)
-- [Learn Unreal VR Nanodegree](Learn%20Unreal%20VR%20Nanodegree/README.md)
-- [Machine Learning Engineer Nanodegree](Machine%20Learning%20Engineer%20Nanodegree/README.md)
-- [Mobile Web Specialist Nanodegree](Mobile%20Web%20Specialist%20Nanodegree/README.md)
-- [React Nanodegree](React%20Nanodegree/README.md)
-- [Robotics Software Engineer Nanodegree](Robotics%20Software%20Engineer%20Nanodegree/README.md)
-- [Self-Driving Car Engineer Nanodegree](Self-Driving%20Car%20Engineer%20Nanodegree/README.md)
-- [VR Developer Nanodegree](VR%20Developer%20Nanodegree/README.md)
-- [iOS Developer Nanodegree](iOS%20Developer%20Nanodegree/README.md)
+#### 🎓 Nanodegrees are divided into Schools:
+
+- [**School of AI**](School%20of%20AI)
+    - Machine Learning Engineer Nanodegree
+    - Artificial Intelligence Nanodegree
+    - Deep Learning Nanodegree
+
+- [**School of Business**](School%20of%20Business)
+    - Business Analyst Nanodegree
+    - Digital Marketing Nanodegree
+    - Google AdWords Nanodegree
+    - Design Sprint Foundations Nanodegree
+
+- [**School of Data**](School%20of%20Data)
+    - Data Analyst Nanodegree
+    - Data Foundations Nanodegree
+
+- [**School of Intro to Programming**](School%20of%20Intro%20to%20Programming)
+    - Intro to Programming Nanodegree
+
+- [**School of Mobile Development**](School%20of%20Mobile%20Development)
+    - Android Basics Nanodegree
+    - Android Developer Nanodegree
+    - iOS Developer Nanodegree
+
+- [**School of Robotics**](School%20of%20Robotics)
+    - Robotics Software Engineer Nanodegree
+
+- [**School of Self-Driving and Flying Cars**](School%20of%20Self-Driving%20and%20Flying%20Cars)
+    - Intro to Self-Driving Cars Nanodegree
+    - Self-Driving Car Engineer Nanodegree
+    - Flying Car Nanodegree
+
+- [**School of VR and AR**](School%20of%20VR%20and%20AR)
+    - Learn ARKit Nanodegree
+    - Learn Unreal VR Nanodegree
+    - Learn VR Developer Nanodegree
+
+- [**School of Web Development**](School%20of%20Web%20Development)
+    - Front-End Web Developer Nanodegree
+    - Full-Stack Web Developer Nanodegree
+    - Mobile Web Specialist Nanodegree
+    - React Nanodegree
 
 ---
 
@@ -34,8 +52,7 @@
 
 - [Open Source Projects](Open%20Source%20Projects/)
 
-Find Open Source Projects by Technology and Category.
-
+Find Open Source Projects you can contribute to by Technology and Category.
 
 
 ----
