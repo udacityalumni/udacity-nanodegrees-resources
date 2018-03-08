@@ -8,36 +8,26 @@ We would like to thank you for contributing to this project. This is a project w
 
 - Fork the project
 - Add a new branch with a descriptive name.
-- Make the necessary changes to the README file that corresponds to your Nanodegree (Please include a descriptive **commit message**, following **the format below)**
+- Make the necessary changes to the file that corresponds to your School (Please include a descriptive **commit message**)
 - Submit a pull request  *(instructions below, see **Pull Request**)*.
 
-Follow this format ⬇️
 
-----
-
-**Added [Resource title]** (do not include the [ ])
-
- For the [Nanodegree or Folder/Subfolder Title]
-
------
 
 ⚠️ **IMPORTANT NOTE:**
 
 - Please, add the resource *under its corresponding category*.
     - Each School and category has a file with main categories. These main categories may have subcategories.
         - If the resource you are going to add belongs to a subcategory that already exists, please add it following the **format below.**
-      - If the resource belongs to a category that does not exist, you can add subcategories. Please follow **this format:**
-       
----
+      - If the resource belongs to a category that does not exist, you can add subcategories following the **format below**.
 
-##### **Project 1: Example**
-       
-#### New subcategory title
+--------------
 
-   - [Link to the resource you wish to share with a descriptive title  (Preferably the article or resource title)](#) - [Optional] description of the resource
+ - **Subcategory Title**
+      - [Resource Title]() - Description (optional)
 
 
------
+-------
+      
 
 ⚠️ **IMPORTANT NOTE ON MAIN CATEGORIES:**
 
@@ -48,12 +38,7 @@ Follow this format ⬇️
 
 ## 🌐 Contributing to the Open Source Projects section
 
-- If the project's category has not been included:
-  - Add a subheading in the corresponding School
-   - Follow the instructions below.
-
-- If the project's category has been included:
-    - Add a link to the project's repository and a short description following **this format**:
+  - Add a link to the project's repository under its corresponding school and main category and a short description following **this format**:
 
 -----
 
@@ -66,16 +51,15 @@ Follow this format ⬇️
 
 ## 🔧 Contributing with a Project idea and/or Rubric
 
-- To contribute with a project idea, please add a line on the "Project ideas" main section of the file that corresponds to your School following **this format**:
+- To contribute with a project idea, please add a line to the "Project ideas" main section of the file that corresponds to your School following **this format**:
 
    - **Short and descriptive title for your idea** - Brief description of the project and the technologies required.
 
 - To contribute with a rubric for your idea:
 
-   - Go to the **"Rubrics"** folder inside your Nanodegree's main folder.
-
-   - Add a markdown file named exactly like the title you used for your idea on the Nanodegree's README file. 
-       - Inside that file add a title and the requirements for the project as bullet points.
+   - Go to the **"Rubrics"** folder inside your School's main folder
+   - Create a markdown file named exactly as the title you included in the "Project ideas" section.  
+   - Inside that file add a title and the requirements for the project as bullet points.
 
 
 **NOTE:** Contributing with a rubric is optional, you can add a project idea without a rubric.
@@ -91,7 +75,8 @@ Follow this format ⬇️
 
 ## 🙌 Adding you as a Contributor!
 
-You've contributed to the project, that's awesome! 👍 We would be honored to include you in the contributors list. If you wish to be included, please add your GitHub username and/or Name to [Contributors.md](Contributors.md) in your pull request ⭐️
+You've contributed to the project, that's awesome! 👍 We would be honored to include you in the contributors list. If you wish to be included, please add your GitHub username and/or Name to [Contributors.md](Contributors.md) in your pull rAdd yourself as a contributor
+
 
 ## 👀 Found an Error or Typo?
 
