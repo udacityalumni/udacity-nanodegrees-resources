@@ -1,7 +1,7 @@
 ![Udacity Alumni Logo](img/alumni-logo.png)
 
 
-# Helpful Resources for Udacity Alumni
+# Resources for Udacity Alumni
 
 ✨ **Welcome!  In this repository created by Udacity Students you can find a list of links to helpful resources to continue learning and expanding your portfolio after completing your Nanodegree.**
 
