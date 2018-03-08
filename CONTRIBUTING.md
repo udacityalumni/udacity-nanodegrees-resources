@@ -1,6 +1,6 @@
 # ✋ Contributing 
 
-**We're so glad you're here! 🎉 Welcome to this project where you can find a list of resources for your Nanodegree and for your journey through the amazing field of Computer Science.** 
+**We're so glad you're here! 🎉 Welcome to this project where you can find a list of resources for your journey through the amazing field of Computer Science after completing your Nanodegree.** 
 
 We would like to thank you for contributing to this project. This is a project we will all build together 😃
 
@@ -24,7 +24,7 @@ Follow this format ⬇️
 ⚠️ **IMPORTANT NOTE:**
 
 - Please, add the resource *under its corresponding category*.
-    - Each Nanodegree README file has a category per project and a category for complementary resources, technical interviewing resources and project ideas. These main categories may have subcategories.
+    - Each School and category has a file with main categories. These main categories may have subcategories.
         - If the resource you are going to add belongs to a subcategory that already exists, please add it following the **format below.**
       - If the resource belongs to a category that does not exist, you can add subcategories. Please follow **this format:**
        
@@ -32,7 +32,8 @@ Follow this format ⬇️
 
 ##### **Project 1: Example**
        
-  - New subcategory title
+#### New subcategory title
+
    - [Link to the resource you wish to share with a descriptive title  (Preferably the article or resource title)](#) - [Optional] description of the resource
 
 
@@ -40,27 +41,21 @@ Follow this format ⬇️
 
 ⚠️ **IMPORTANT NOTE ON MAIN CATEGORIES:**
 
-   - Please try to add your resource into one of the existing main categories (Resources per Project, Complementary Resources, Technical Interviewing Resources, Project ideas)
-   - If you think a Nanodegree may need an additional main category, please open an issue and we can discuss your idea. **Suggestions are always welcome!** 😃  
+   - Please try to add your resource into one of the existing main categories 
+   - If you think a file may need an additional main category, please open an issue and we can discuss your idea. **Suggestions are always welcome!** 😃  
 
 ----
 
 ## 🌐 Contributing to the Open Source Projects section
 
 - If the project's category has not been included:
-  - Add a markdown file titled "**Open Source [technology] projects**" (omit the [ ]) in the "Open Source Projects" folder.
-    - Follow the instructions below.
+  - Add a subheading in the corresponding School
+   - Follow the instructions below.
 
 - If the project's category has been included:
-     - Include your project under the corresponding subcategory (e.g Productivity, Health, Education)
-        - If the category doesn't exist, you can create it by adding its title and an emoji that describes the category
-              - For the title use three #s
-              - You can find emojis on these links and copy/paste them to your file: [List #1](https://gist.github.com/TefiC/a149d24723487487f056c9df356bd263), [List #2](https://gist.github.com/TefiC/8b76740844b0dea73032236a27db0bc6)
-        - Add a link to the project's repository and a short description following **this format**:
+    - Add a link to the project's repository and a short description following **this format**:
 
 -----
-
-**Category** [emoji]
 
 - [Project Title]() - Project Description
                    
@@ -71,7 +66,7 @@ Follow this format ⬇️
 
 ## 🔧 Contributing with a Project idea and/or Rubric
 
-- To contribute with a project idea, please add a line on the "Project ideas" main section of the README file that corresponds to your Nanodegree following **this format**:
+- To contribute with a project idea, please add a line on the "Project ideas" main section of the file that corresponds to your School following **this format**:
 
    - **Short and descriptive title for your idea** - Brief description of the project and the technologies required.
 
@@ -94,7 +89,7 @@ Follow this format ⬇️
 -  Submit a pull request from that branch to the project's master branch.
 
 
-## 🙌 Add yourself as a contributor
+## 🙌 Adding you as a Contributor!
 
 You've contributed to the project, that's awesome! 👍 We would be honored to include you in the contributors list. If you wish to be included, please add your GitHub username and/or Name to [Contributors.md](Contributors.md) in your pull request ⭐️
 
