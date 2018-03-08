@@ -59,11 +59,14 @@ Find Open Source Projects you can contribute to by Technology and Category.
 
 #### 📃 Main Categories:
 
-- Each Nanodegree has a README file with these main categories:
-     - **Resources Per Project** - Links to interesting resources for each project.
-     - **Complementary Resources** - Links to helpful resources that are not specific to a particular project.
-     - **Technical Interviewing Resources** - Links to helpful resources for Interviews and Career Development.
+- Each School has a README file with these main categories:
+     - **General Resources**
+     - **Stay on Top of Trends**
+     - **Dive Deeper**
+     - **Technical Interviewing Resources**
+     - **Articles and Readings**
      - **Project Ideas** - Descriptions of ideas for projects you can complete after you complete your Nanodegree to expand your portfolio. If you wish to contribute with an idea, you can also include a Rubric.
+
 
 ---
 
