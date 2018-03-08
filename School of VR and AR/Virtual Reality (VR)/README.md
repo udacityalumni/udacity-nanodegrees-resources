@@ -1,4 +1,4 @@
-## <p style="text-align: center;"> Resources for VR and AR Developers</p>
+## <p style="text-align: center;"> Resources for VR Developers</p>
 
 ---
 
