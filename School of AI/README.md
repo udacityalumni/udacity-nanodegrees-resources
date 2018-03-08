@@ -1,4 +1,4 @@
-## <p style="text-align: center;"> Resources for Artificial Intelligence,<br> Machine Learning and Deep Learning</p>
+## <p style="text-align: center;"> Resources for Artificial Intelligence, Machine Learning and Deep Learning</p>
 
 ---
 
