@@ -9,9 +9,9 @@
 
 - **Specific Resources:**
 
- - Front-End Web Development
+   - Front-End Web Development
 
- - Back-End Web Development
+   - Back-End Web Development
 
 ----
 
@@ -23,9 +23,9 @@
 
 - **Specific Resources:**
 
- - Front-End Web Development
+   - Front-End Web Development
 
- - Back-End Web Development
+   - Back-End Web Development
 
 
 ---
@@ -38,7 +38,7 @@
 
 - **Specific Resources:**
 
- - Front-End Web Development
+   - Front-End Web Development
 
  - Back-End Web Development
 
@@ -53,9 +53,9 @@
 
 - **Specific Resources:**
 
- - Front-End Web Development
+   - Front-End Web Development
 
- - Back-End Web Development
+   - Back-End Web Development
 
 ---
 
@@ -67,9 +67,9 @@
 
 - **Specific Resources:**
 
- - Front-End Web Development
+   - Front-End Web Development
 
- - Back-End Web Development
+   - Back-End Web Development
 
 ---
 
@@ -81,6 +81,6 @@
 
 - **Specific Resources:**
 
- - Front-End Web Development
+   - Front-End Web Development
 
- - Back-End Web Development
+   - Back-End Web Development
