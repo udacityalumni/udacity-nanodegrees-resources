@@ -2,7 +2,7 @@
 
 **We're so glad you're here! 🎉 Welcome to this project where you can find a list of resources for your journey through the amazing field of Computer Science after completing your Nanodegree.** 
 
-We would like to thank you for contributing to this project. This is a project we will all build together 😃
+We would like to thank you for contributing to this project that we will all build together 😃
 
 ## 📑 Format and Guidelines
 
