@@ -53,9 +53,7 @@
 
 #### 🌐 Contribute to Open Source Projects! 
 
-- [Open Source Projects](Open%20Source%20Projects/)
-
-Find Open Source Projects you can contribute to by Technology and Category.
+Find Open Source Projects you can contribute to by Technology and Category on the **Open Source Projects** section in your School.
 
 
 ----
