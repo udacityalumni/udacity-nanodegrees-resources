@@ -38,7 +38,7 @@ We would like to thank you for contributing to this project. This is a project w
 
 ## 🌐 Contributing to the Open Source Projects section
 
-  - Add a link to the project's repository under its corresponding school and main category and a short description following **this format**:
+  - Add a link to the open source project's repository and a short description on the **Open Source Projects section** in your School following **this format**:
 
 -----
 
