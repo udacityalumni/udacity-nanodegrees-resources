@@ -23,6 +23,10 @@
 
 ----
 
+#### Resources
+
+* [Stay Up to Date as an Android Developer](https://www.youtube.com/watch?v=1QUMtQyvKYs&feature=youtu.be)
+
 #### Android Design 
   * [Daily Android resources for designers](https://www.uplabs.com/android)
 
