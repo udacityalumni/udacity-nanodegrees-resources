@@ -16,3 +16,6 @@
 * [Toptal](https://www.toptal.com/)
 * [Triplebyte](https://triplebyte.com/)
 * [Sharpest Minds](http://www.sharpestminds.com/) - AI-focused
+
+#### Tips from Experts
+* [New Year, New Career: 7 Steps You Can Take Today to Land Your Dream Job](https://www.youtube.com/watch?v=JxLQ7UV321Q&feature=youtu.be&t=43m11s)
