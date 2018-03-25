@@ -63,6 +63,10 @@
 
 ----
 
+#### Articles and Readings
+
+- [I had 10 Android interviews during the last two years, here’s the questions plus some lessons I’ve learned](https://android.jlelse.eu/i-had-10-android-interviews-during-the-last-two-years-heres-the-questions-plus-some-lessons-i-ve-cdc583dfbc65?gi=7fc5f5fbdae4)
+
 ---
 
 ### 📚 Articles and Readings
