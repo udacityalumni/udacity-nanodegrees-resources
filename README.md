@@ -11,6 +11,7 @@ Nanodegrees are divided into Schools:
 - [School of AI](#school-of-ai)
 - [School of Business](#school-of-business)
 - [School of Data](#school-of-data)
+- [School of Programming](#school-of-programming)
 
 ---
 
@@ -20,15 +21,7 @@ Nanodegrees are divided into Schools:
 * [Artificial Intelligence Nanodegree (AIND)](https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889)
 * [Deep Learning Nanodegree (DLND)](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 
-##### General Resources
-
 * [Preparation for Udacity Deep Learning Foundation Nanodegree](https://docs.google.com/spreadsheets/d/1NZtIxDWiJ_B0UKhIDUk-wTZAT3Fxfh-fGwcQKXg1bQU/edit#gid=0) - Collaboratively updated Google spreadsheet of Deep Learning links including Courses, Books, Podcasts, Cheat Sheets, Github Repos, Jobs, Subreddits, Blogs and more. Feel free to contribute! ([how this started](https://knowledgesharing1141.wordpress.com/2017/03/01/blogging-the-udacity-deep-learning-foundation-nano-degree/))
-
-##### Interviewing Resources
-
-##### Articles and Readings
-
-##### Project ideas
 
 ---
 
@@ -48,77 +41,74 @@ Nanodegrees are divided into Schools:
 
 ---
 
-- [**School of Intro to Programming**](School%20of%20Intro%20to%20Programming)
-    - Intro to Programming Nanodegree
+#### School of Programming
 
-- [**School of Mobile Development**](School%20of%20Mobile%20Development)
-    - Android Basics Nanodegree
-    - Android Developer Nanodegree
-    - iOS Developer Nanodegree
-
-- [**School of Robotics**](School%20of%20Robotics)
-    - Robotics Software Engineer Nanodegree
-
-- [**School of Self-Driving and Flying Cars**](School%20of%20Self-Driving%20and%20Flying%20Cars)
-    - Intro to Self-Driving Cars Nanodegree
-    - Self-Driving Car Engineer Nanodegree
-    - Flying Car Nanodegree
-
-- [**School of VR and AR**](School%20of%20VR%20and%20AR)
-    - Learn ARKit Nanodegree
-    - Learn Unreal VR Nanodegree
-    - Learn VR Developer Nanodegree
-
-- [**School of Web Development**](School%20of%20Web%20Development)
-    - Front-End Web Developer Nanodegree
-    - Full-Stack Web Developer Nanodegree
-    - Mobile Web Specialist Nanodegree
-    - React Nanodegree
+* Intro to Programming Nanodegree
 
 ---
 
-## 🌐 Contribute to Open Source Projects! 
+#### School of Mobile Development
 
-Find Open Source Projects you can contribute to by Technology and Category on the **Open Source Projects** section in your School.
+* Android Basics Nanodegree
+* Android Developer Nanodegree
+* iOS Developer Nanodegree
 
 ---
 
-## Career Development
+#### School of Robotics
 
-### General Interviewing Resources
+* Robotics Software Engineer Nanodegree
 
-### Technical Interviewing 
+---
+
+#### School of Self-Driving and Flying Cars
+
+* Intro to Self-Driving Cars Nanodegree
+* Self-Driving Car Engineer Nanodegree
+* Flying Car Nanodegree
+
+---
+
+#### School of VR and AR
+
+* Learn ARKit Nanodegree
+* Learn Unreal VR Nanodegree
+* Learn VR Developer Nanodegree
+
+---
+
+#### School of Web Development
+
+* Front-End Web Developer Nanodegree
+* Full-Stack Web Developer Nanodegree
+* Mobile Web Specialist Nanodegree
+* React Nanodegree
+
+---
+
+### Career Development
+
+#### General Interviewing Resources
+
+#### Technical Interviewing 
 * [Pramp](http://pramp.com)
 * [Interviewing.io](http://interviewing.io)
 * [Interview Cake](https://www.interviewcake.com/)
 
-### Great Places to Find Jobs
+#### Great Places to Find Jobs
 * [Angelist: Remote-Friendly Companies](https://angel.co/job-collections/23-remote-friendly-companies)
 
-### Recruiting Platforms
+#### Recruiting Platforms
 * [Toptal](https://www.toptal.com/)
 * [Triplebyte](https://triplebyte.com/)
 * [Sharpest Minds](http://www.sharpestminds.com/) - AI-focused
 
-### Tips from Experts
+#### Tips from Experts
 * [New Year, New Career: 7 Steps You Can Take Today to Land Your Dream Job](https://www.youtube.com/watch?v=JxLQ7UV321Q&feature=youtu.be&t=43m11s)
 
 ---
 
-## 📃 Main Categories:
-
-- Each School has a README file with these main categories:
-     - **General Resources**
-     - **Stay on Top of Trends**
-     - **Dive Deeper**
-     - **Technical Interviewing Resources**
-     - **Articles and Readings**
-     - **Project Ideas** - Descriptions of ideas for projects you can complete after you complete your Nanodegree to expand your portfolio. If you wish to contribute with an idea, you can also include a Rubric.
-
-
----
-
-## ✋ Contribute:
+### Contribute
 
 To contribute to this project, please read the [**CONTRIBUTING.md**](CONTRIBUTING.md) file for guidelines. 
 
