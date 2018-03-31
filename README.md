@@ -60,7 +60,7 @@ Nanodegrees are divided into schools:
 * Android Developer Nanodegree
 * iOS Developer Nanodegree
 
-##### Android
+##### Android Resources
 
 * [Stay Up to Date as an Android Developer](https://www.youtube.com/watch?v=1QUMtQyvKYs&feature=youtu.be)
 * [Tips From the Time Machine: Things I Wish I’d Known When Starting a Career as an Android dev](https://chicagoroboto.com/sessions/tips-time-machine-things-wish-id-known-starting-career-android-dev/)
@@ -97,7 +97,7 @@ Nanodegrees are divided into schools:
 ###### Project ideas
 
 
-##### iOS
+##### iOS Resources
 
 ---
 
@@ -136,7 +136,7 @@ Nanodegrees are divided into schools:
 * Mobile Web Specialist Nanodegree
 * React Nanodegree
 
-##### Resources
+##### Web Development Resources
 * [TypeScript - Quick Start](https://www.typescriptlang.org/docs/tutorial.html)
 * [High-performance ES2015 and beyond](https://v8project.blogspot.com/2017/02/high-performance-es2015-and-beyond.html)
 
@@ -156,7 +156,7 @@ Nanodegrees are divided into schools:
 <!-- ##### Project ideas -->
 <!-- ##### Technical Interviewing Resources -->
 
-##### Jobs
+##### Web Development Jobs
 * [Front-End Developer Jobs](http://frontenddeveloperjob.com/)
 
 
