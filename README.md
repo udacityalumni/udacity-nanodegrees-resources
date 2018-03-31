@@ -62,11 +62,8 @@ Nanodegrees are divided into schools:
 
 ##### Android
 
-###### Resources
 * [Stay Up to Date as an Android Developer](https://www.youtube.com/watch?v=1QUMtQyvKYs&feature=youtu.be)
 * [Tips From the Time Machine: Things I Wish I’d Known When Starting a Career as an Android dev](https://chicagoroboto.com/sessions/tips-time-machine-things-wish-id-known-starting-career-android-dev/)
-
-###### Articles and Readings
 * [I had 10 Android interviews during the last two years, here’s the questions plus some lessons I’ve learned](https://android.jlelse.eu/i-had-10-android-interviews-during-the-last-two-years-heres-the-questions-plus-some-lessons-i-ve-cdc583dfbc65?gi=7fc5f5fbdae4)
 
 ###### General Guide Collections
