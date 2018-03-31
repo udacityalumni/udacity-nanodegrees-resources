@@ -11,7 +11,12 @@ Nanodegrees are divided into Schools:
 - [School of AI](#school-of-ai)
 - [School of Business](#school-of-business)
 - [School of Data](#school-of-data)
+- [School of Mobile Development](#school-of-mobile-development)
 - [School of Programming](#school-of-programming)
+- [School of Robotics](#school-of-robotics)
+- [School of Self-Driving and Flying Cars](#school-of-self-driving-and-flying-cars)
+- [School of VR and AR](#school-of-vr-and-ar)
+- [School of Web Development](#school-of-web-development)
 
 ---
 
@@ -20,6 +25,8 @@ Nanodegrees are divided into Schools:
 * [Machine Learning Engineer Nanodegree (MLND)](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
 * [Artificial Intelligence Nanodegree (AIND)](https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889)
 * [Deep Learning Nanodegree (DLND)](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+
+##### Resources
 
 * [Preparation for Udacity Deep Learning Foundation Nanodegree](https://docs.google.com/spreadsheets/d/1NZtIxDWiJ_B0UKhIDUk-wTZAT3Fxfh-fGwcQKXg1bQU/edit#gid=0) - Collaboratively updated Google spreadsheet of Deep Learning links including Courses, Books, Podcasts, Cheat Sheets, Github Repos, Jobs, Subreddits, Blogs and more. Feel free to contribute! ([how this started](https://knowledgesharing1141.wordpress.com/2017/03/01/blogging-the-udacity-deep-learning-foundation-nano-degree/))
 
@@ -41,17 +48,17 @@ Nanodegrees are divided into Schools:
 
 ---
 
-#### School of Programming
-
-* Intro to Programming Nanodegree
-
----
-
 #### School of Mobile Development
 
 * Android Basics Nanodegree
 * Android Developer Nanodegree
 * iOS Developer Nanodegree
+
+---
+
+#### School of Programming
+
+* Intro to Programming Nanodegree
 
 ---
 
