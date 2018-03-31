@@ -6,8 +6,6 @@ Resources for Udacity Alumni
 
 Welcome!  In this repository created by Udacity Students you can find a list of links to helpful resources to continue learning and expanding your portfolio after completing your Nanodegree.
 
-Nanodegrees are divided into Schools:
-
 - [School of AI](#school-of-ai)
 - [School of Business](#school-of-business)
 - [School of Data](#school-of-data)
@@ -17,6 +15,7 @@ Nanodegrees are divided into Schools:
 - [School of Self-Driving and Flying Cars](#school-of-self-driving-and-flying-cars)
 - [School of VR and AR](#school-of-vr-and-ar)
 - [School of Web Development](#school-of-web-development)
+- [Career Development](#career-development)
 
 ---
 
