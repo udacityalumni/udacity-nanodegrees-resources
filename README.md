@@ -1,16 +1,34 @@
 ![Udacity Alumni Logo](img/alumni-logo.png)
 
+### **Awesome Udacity** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# Resources for Udacity Alumni
+Resources for Udacity Alumni
 
 Welcome!  In this repository created by Udacity Students you can find a list of links to helpful resources to continue learning and expanding your portfolio after completing your Nanodegree.
 
-## 🎓 Nanodegrees are divided into Schools:
+Nanodegrees are divided into Schools:
 
-- [**School of AI**](School%20of%20AI)
-    - Machine Learning Engineer Nanodegree
-    - Artificial Intelligence Nanodegree
-    - Deep Learning Nanodegree
+- [School of AI](#school-of-ai)
+- [School of Business](#school-of-business)
+
+---
+
+#### School of AI
+
+* [Machine Learning Engineer Nanodegree (MLND)](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
+* [Artificial Intelligence Nanodegree (AIND)](https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889)
+* [Deep Learning Nanodegree (DLND)](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+
+##### General Resources
+
+* [Preparation for Udacity Deep Learning Foundation Nanodegree](https://docs.google.com/spreadsheets/d/1NZtIxDWiJ_B0UKhIDUk-wTZAT3Fxfh-fGwcQKXg1bQU/edit#gid=0) - Collaboratively updated Google spreadsheet of Deep Learning links including Courses, Books, Podcasts, Cheat Sheets, Github Repos, Jobs, Subreddits, Blogs and more. Feel free to contribute! ([how this started](https://knowledgesharing1141.wordpress.com/2017/03/01/blogging-the-udacity-deep-learning-foundation-nano-degree/))
+
+#### Interviewing Resources
+
+#### Articles and Readings
+
+#### Project ideas
+
 
 - [**School of Business**](School%20of%20Business)
     - Business Analyst Nanodegree
