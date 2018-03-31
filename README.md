@@ -3,9 +3,9 @@
 
 # Resources for Udacity Alumni
 
-✨ **Welcome!  In this repository created by Udacity Students you can find a list of links to helpful resources to continue learning and expanding your portfolio after completing your Nanodegree.**
+Welcome!  In this repository created by Udacity Students you can find a list of links to helpful resources to continue learning and expanding your portfolio after completing your Nanodegree.
 
-#### 🎓 Nanodegrees are divided into Schools:
+## 🎓 Nanodegrees are divided into Schools:
 
 - [**School of AI**](School%20of%20AI)
     - Machine Learning Engineer Nanodegree
@@ -51,20 +51,35 @@
 
 ---
 
-#### Career Development
-
-- [**Interviewing Resources, etc.**](Career%20Development)
-
----
-
-#### 🌐 Contribute to Open Source Projects! 
+## 🌐 Contribute to Open Source Projects! 
 
 Find Open Source Projects you can contribute to by Technology and Category on the **Open Source Projects** section in your School.
 
+---
 
-----
+## Career Development
 
-#### 📃 Main Categories:
+### General Interviewing Resources
+
+### Technical Interviewing 
+* [Pramp](http://pramp.com)
+* [Interviewing.io](http://interviewing.io)
+* [Interview Cake](https://www.interviewcake.com/)
+
+### Great Places to Find Jobs
+* [Angelist: Remote-Friendly Companies](https://angel.co/job-collections/23-remote-friendly-companies)
+
+### Recruiting Platforms
+* [Toptal](https://www.toptal.com/)
+* [Triplebyte](https://triplebyte.com/)
+* [Sharpest Minds](http://www.sharpestminds.com/) - AI-focused
+
+### Tips from Experts
+* [New Year, New Career: 7 Steps You Can Take Today to Land Your Dream Job](https://www.youtube.com/watch?v=JxLQ7UV321Q&feature=youtu.be&t=43m11s)
+
+---
+
+## 📃 Main Categories:
 
 - Each School has a README file with these main categories:
      - **General Resources**
@@ -77,7 +92,7 @@ Find Open Source Projects you can contribute to by Technology and Category on th
 
 ---
 
-#### ✋ Contribute:
+## ✋ Contribute:
 
 To contribute to this project, please read the [**CONTRIBUTING.md**](CONTRIBUTING.md) file for guidelines. 
 
