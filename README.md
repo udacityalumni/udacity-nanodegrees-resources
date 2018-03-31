@@ -10,6 +10,7 @@ Nanodegrees are divided into Schools:
 
 - [School of AI](#school-of-ai)
 - [School of Business](#school-of-business)
+- [School of Data](#school-of-data)
 
 ---
 
@@ -23,22 +24,29 @@ Nanodegrees are divided into Schools:
 
 * [Preparation for Udacity Deep Learning Foundation Nanodegree](https://docs.google.com/spreadsheets/d/1NZtIxDWiJ_B0UKhIDUk-wTZAT3Fxfh-fGwcQKXg1bQU/edit#gid=0) - Collaboratively updated Google spreadsheet of Deep Learning links including Courses, Books, Podcasts, Cheat Sheets, Github Repos, Jobs, Subreddits, Blogs and more. Feel free to contribute! ([how this started](https://knowledgesharing1141.wordpress.com/2017/03/01/blogging-the-udacity-deep-learning-foundation-nano-degree/))
 
-#### Interviewing Resources
+##### Interviewing Resources
 
-#### Articles and Readings
+##### Articles and Readings
 
-#### Project ideas
+##### Project ideas
 
+---
 
-- [**School of Business**](School%20of%20Business)
-    - Business Analyst Nanodegree
-    - Digital Marketing Nanodegree
-    - Google AdWords Nanodegree
-    - Design Sprint Foundations Nanodegree
+#### School of Business
 
-- [**School of Data**](School%20of%20Data)
-    - Data Analyst Nanodegree
-    - Data Foundations Nanodegree
+* Business Analyst Nanodegree
+* Digital Marketing Nanodegree
+* Google AdWords Nanodegree
+* Design Sprint Foundations Nanodegree
+
+---
+
+#### School of Data
+
+* Data Analyst Nanodegree
+* Data Foundations Nanodegree
+
+---
 
 - [**School of Intro to Programming**](School%20of%20Intro%20to%20Programming)
     - Intro to Programming Nanodegree
