@@ -6,6 +6,10 @@ Resources for Udacity Alumni
 
 Welcome!  In this repository created by Udacity Students you can find a list of links to helpful resources to continue learning and expanding your portfolio after completing your Nanodegree.
 
+Nanodegrees are divided into schools:
+
+<!-- table of contents -->
+
 - [School of AI](#school-of-ai)
 - [School of Business](#school-of-business)
 - [School of Data](#school-of-data)
@@ -17,7 +21,10 @@ Welcome!  In this repository created by Udacity Students you can find a list of 
 - [School of Web Development](#school-of-web-development)
 - [Career Development](#career-development)
 
+
 ---
+
+<!-- resources -->
 
 #### School of AI
 
@@ -94,11 +101,11 @@ Welcome!  In this repository created by Udacity Students you can find a list of 
 
 ### Career Development
 
-<!-- #### General Interviewing Resources -->
-
 #### Tips from Experts
 
 * [New Year, New Career: 7 Steps You Can Take Today to Land Your Dream Job](https://www.youtube.com/watch?v=JxLQ7UV321Q&feature=youtu.be&t=43m11s)
+
+<!-- #### General Interviewing Resources -->
 
 #### Technical Interviewing 
 
