@@ -12,10 +12,10 @@
 - **Specific Resources:**
 
    - Front-End Web Development
-  * [Net Ninja - Responsive Web Design Video Tutorials](https://bit.ly/2pMKQBp)
-  * [W3C Markup Validation Service](https://validator.w3.org/)
-  * [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
-  * [JSLint: A JavaScript Validator](https://www.jslint.com/)
+     * [Net Ninja - Responsive Web Design Video Tutorials](https://bit.ly/2pMKQBp)
+     * [W3C Markup Validation Service](https://validator.w3.org/)
+     * [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+     * [JSLint: A JavaScript Validator](https://www.jslint.com/)
 
    - Back-End Web Development
 
