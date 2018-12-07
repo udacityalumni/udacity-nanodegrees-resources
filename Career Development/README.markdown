@@ -4,13 +4,15 @@
 
 ----
 
-#### Technical Interviewing 
+#### Technical Interviewing
 * [Pramp](http://pramp.com)
 * [Interviewing.io](http://interviewing.io)
 * [Interview Cake](https://www.interviewcake.com/)
 
 #### Great Places to Find Jobs
 * [Angelist: Remote-Friendly Companies](https://angel.co/job-collections/23-remote-friendly-companies)
+* [WeWorkRemotely: Remote-Friendly Companies](https://weworkremotely.com/)
+* [Indeed](https://indeed.com)
 
 #### Recruiting Platforms
 * [Toptal](https://www.toptal.com/)
