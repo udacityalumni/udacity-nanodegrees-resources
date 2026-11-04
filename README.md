@@ -168,6 +168,10 @@ Nanodegrees are divided into schools:
 
 * [New Year, New Career: 7 Steps You Can Take Today to Land Your Dream Job](https://www.youtube.com/watch?v=JxLQ7UV321Q&feature=youtu.be&t=43m11s)
 
+#### Resume Tools
+
+* [JobEmerge](https://www.jobemerge.work) - Freemium AI career copilot with a job-fit test, resume translation, and a Markdown resume editor.
+
 <!-- #### General Interviewing Resources -->
 
 #### Technical Interviewing 
